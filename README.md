@@ -1,1 +1,2 @@
 # Countries-flag
+This is an html 5 website with client-side JavaScript (and supporting CSS, JSON, and image files). The major functionality of the Countries of the World web page completed, including: the loading of the list of countries, the appropriate information shown when selecting a country including its flag image, and the ability to switch the output between kilometres and miles. The Wikipedia lookup page completely working. 
